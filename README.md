@@ -263,11 +263,3 @@ This project is licensed under the MIT License - see LICENSE file for details.
 ## 📞 Support
 
 For issues, questions, or suggestions, please open an issue on GitHub.
-
----
-
-**Last Updated**: June 2024
-**Status**: Active Development
-```
-
-You can copy this markdown and paste it directly into your `README.md` file. Feel free to customize sections like the author name, contact info, or add additional sections as needed!You can copy this markdown and paste it directly into your `README.md` file. Feel free to customize sections like the author name, contact info, or add additional sections as needed!
